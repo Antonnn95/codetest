@@ -1,0 +1,8 @@
+C:\Users\Anton\source\repos\CardGamesConsole2\bin\Debug\CardGamesConsole2.exe.config
+C:\Users\Anton\source\repos\CardGamesConsole2\bin\Debug\CardGamesConsole2.exe
+C:\Users\Anton\source\repos\CardGamesConsole2\bin\Debug\CardGamesConsole2.pdb
+C:\Users\Anton\source\repos\CardGamesConsole2\obj\Debug\CardGamesConsole2.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\CardGamesConsole2\obj\Debug\CardGamesConsole2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anton\source\repos\CardGamesConsole2\obj\Debug\CardGamesConsole2.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\CardGamesConsole2\obj\Debug\CardGamesConsole2.exe
+C:\Users\Anton\source\repos\CardGamesConsole2\obj\Debug\CardGamesConsole2.pdb
